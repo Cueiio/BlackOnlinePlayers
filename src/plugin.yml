@@ -1,0 +1,7 @@
+  name: BlackOnlinePlayers
+  main: black.online.BlackOnlinePlayers
+
+  version: 1.0
+  commands:
+    players:
+    online:

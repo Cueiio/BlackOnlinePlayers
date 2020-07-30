@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlackOnlinePlayers">
+    <output-path>$PROJECT_DIR$/../../Plugins Jars</output-path>
+    <root id="archive" name="BlackOnlinePlayers.jar" />
+  </artifact>
+</component>
